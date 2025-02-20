@@ -1,3 +1,1 @@
-### oi
-
 - 🌱 I’m currently learning HTML, CSS, JAVASCRIPT, SLQ, NODE...
